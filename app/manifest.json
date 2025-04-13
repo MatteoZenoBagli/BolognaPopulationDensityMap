@@ -1,0 +1,14 @@
+{
+    "name": "Interactive Choropleth Map of Bologna population density",
+    "short_name": "Bologna's population density map",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 48x48 32x32 16x16",
+        "type": "image/x-icon"
+      }
+    ],
+    "theme_color": "#d7301f",
+    "background_color": "#d7301f",
+    "display": "standalone"
+  }

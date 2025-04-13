@@ -1,0 +1,182 @@
+[
+    {
+        "zone_code": "A",
+        "zone_id": 11,
+        "population_density": 6313.23,
+        "historic_center": false,
+        "zone": "Barca",
+        "surface": 3.3219,
+        "area": 3321911.46,
+        "population": 20.972
+    },
+    {
+        "zone_code": "B",
+        "zone_id": 12,
+        "population_density": 7398.72,
+        "historic_center": false,
+        "zone": "Bolognina",
+        "surface": 4.9436,
+        "area": 4943556.71,
+        "population": 36.576
+    },
+    {
+        "zone_code": "C",
+        "zone_id": 11,
+        "population_density": 1011.53,
+        "historic_center": false,
+        "zone": "Borgo Panigale",
+        "surface": 26.1663,
+        "area": 26166338.13,
+        "population": 26.468
+    },
+    {
+        "zone_code": "D",
+        "zone_id": 15,
+        "population_density": 360.69,
+        "historic_center": false,
+        "zone": "Colli",
+        "surface": 24.7251,
+        "area": 24725141.88,
+        "population": 8.918
+    },
+    {
+        "zone_code": "E",
+        "zone_id": 12,
+        "population_density": 1863.16,
+        "historic_center": false,
+        "zone": "Corticella",
+        "surface": 9.8773,
+        "area": 9877293.81,
+        "population": 18.403
+    },
+    {
+        "zone_code": "F",
+        "zone_id": 13,
+        "population_density": 2223.98,
+        "historic_center": false,
+        "zone": "Costa Saragozza",
+        "surface": 11.0797,
+        "area": 11079668.31,
+        "population": 24.641
+    },
+    {
+        "zone_code": "G",
+        "zone_id": 15,
+        "population_density": 11627.96,
+        "historic_center": true,
+        "zone": "Galvani",
+        "surface": 1.1168,
+        "area": 1116791.26,
+        "population": 12.986
+    },
+    {
+        "zone_code": "H",
+        "zone_id": 15,
+        "population_density": 9961.71,
+        "historic_center": true,
+        "zone": "Irnerio",
+        "surface": 1.3756,
+        "area": 1375567.41,
+        "population": 13.703
+    },
+    {
+        "zone_code": "I",
+        "zone_id": 12,
+        "population_density": 1307.0,
+        "historic_center": false,
+        "zone": "Lame",
+        "surface": 11.0544,
+        "area": 11054352.23,
+        "population": 14.448
+    },
+    {
+        "zone_code": "L",
+        "zone_id": 13,
+        "population_density": 12215.51,
+        "historic_center": true,
+        "zone": "Malpighi",
+        "surface": 0.9596,
+        "area": 959599.95,
+        "population": 11.722
+    },
+    {
+        "zone_code": "M",
+        "zone_id": 13,
+        "population_density": 13929.07,
+        "historic_center": true,
+        "zone": "Marconi",
+        "surface": 1.0583,
+        "area": 1058290.41,
+        "population": 14.741
+    },
+    {
+        "zone_code": "N",
+        "zone_id": 16,
+        "population_density": 6687.79,
+        "historic_center": false,
+        "zone": "Mazzini",
+        "surface": 5.7472,
+        "area": 5747189.0,
+        "population": 38.436
+    },
+    {
+        "zone_code": "O",
+        "zone_id": 15,
+        "population_density": 10254.73,
+        "historic_center": false,
+        "zone": "Murri",
+        "surface": 2.8225,
+        "area": 2822503.65,
+        "population": 28.944
+    },
+    {
+        "zone_code": "P",
+        "zone_id": 13,
+        "population_density": 6823.45,
+        "historic_center": false,
+        "zone": "Saffi",
+        "surface": 2.6689,
+        "area": 2668885.56,
+        "population": 18.211
+    },
+    {
+        "zone_code": "Q",
+        "zone_id": 14,
+        "population_density": 2041.7,
+        "historic_center": false,
+        "zone": "San Donato",
+        "surface": 15.4645,
+        "area": 15464545.52,
+        "population": 31.574
+    },
+    {
+        "zone_code": "R",
+        "zone_id": 16,
+        "population_density": 3717.2,
+        "historic_center": false,
+        "zone": "San Ruffillo",
+        "surface": 5.7129,
+        "area": 5712906.02,
+        "population": 21.236
+    },
+    {
+        "zone_code": "T",
+        "zone_id": 14,
+        "population_density": 3207.54,
+        "historic_center": false,
+        "zone": "San Vitale",
+        "surface": 10.8039,
+        "area": 10803918.35,
+        "population": 34.654
+    },
+    {
+        "zone_code": "S",
+        "zone_id": 11,
+        "population_density": 6877.27,
+        "historic_center": false,
+        "zone": "Santa Viola",
+        "surface": 1.9473,
+        "area": 1947285.54,
+        "population": 13.392
+    }
+]

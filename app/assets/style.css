@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    padding: 1rem;
+    background-color: #d7301f;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.header h1 {
+    font-weight: 600;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 1rem;
+
+    /* max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem; */
+}
+
+
+#map {
+    position: relative;
+    max-width: 100vh;
+    height: 75vh;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.25rem 0.25rem rgba(0, 0, 0, 0.12);
+}
+
+
+.container > .info {
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.info {
+    margin-bottom: 1rem;
+}
+
+.info {
+    padding: 0.5rem;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+    border-radius: 0.5rem;
+}
+
+.info h4 {
+    margin: 0;
+    margin-bottom: 0.5rem;
+    color: #777;
+}
+
+.info div {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 0.5rem;
+    height: 1.25rem;
+}
+
+.legend {
+    background: white;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+    line-height: 1.5;
+}
+
+.legend i {
+    width: 1rem;
+    height: 1rem;
+    float: left;
+    margin-right: 0.5rem;
+    opacity: 0.7;
+}

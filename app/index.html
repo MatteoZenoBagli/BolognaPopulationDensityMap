@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="manifest" href="/manifest.json">
+        <title>Interactive Choropleth Map of Bologna population density</title>
+
+        <!-- Leaflet CSS -->
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"
+        />
+        <link rel="stylesheet" href="/assets/style.css" />
+
+        <!-- Leaflet JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+        <script src="/assets/map.js"></script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Interactive Choropleth Map of Bologna population density</h1>
+        </div>
+
+        <div class="container">
+            <div class="info">
+                <p>
+                    The map shows the population density for the different areas of
+                    Bologna.
+                </p>
+                </p>
+                The most densely populated areas are represented
+                    with more intense colors (red), while the less populated areas
+                    are displayed with softer colors (yellow/orange).
+                </p>
+                <p>
+                    The data used in this project is provided by and belongs to the Municipality of Bologna,
+                    who is the original author and copyright holder.
+                    See <a href="https://opendata.comune.bologna.it/">Bologna's open data</a>.
+                </p>
+            </div>
+
+            <div id="map"></div>
+        </div>
+    </body>
+</html>
